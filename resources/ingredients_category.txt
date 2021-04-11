@@ -1,0 +1,151 @@
+Alcohol 1:
+Samogon
+Vodka
+Smirnoff
+Absolut vodka
+Tequila
+Rum
+Scotch Whisky
+Jack Daniels
+Bourbon
+Jägermeister
+Jim Beam
+Cognac
+Malibu rum
+Amaretto
+Vermouth
+Bacardi Limon
+Irish whiskey
+Absolut Kurant
+Everclear
+Johnnie Walker
+Sloe gin
+151 proof rum
+Ouzo
+Drambuie
+Crown Royal
+
+
+
+Alcohol 2:
+Kahlua
+Benedictine
+Sambuca
+Galliano
+Cachaca
+Pisco
+Cider
+Prosecco
+Yukon Jack
+Blue Curacao
+Beer
+Aperol
+Port
+Triple sec
+Grand Marnier
+Campari
+Green Creme de Menthe
+Lillet Blanc
+Zima
+Bailey's irish cream
+Brandy
+Wine
+Lager
+Champagne
+Sloe gin
+
+
+
+
+FruitS:
+Watermelon
+Apple
+Orange
+Banana
+Lime
+Lemon
+Mango
+Cranberry
+Strawberries
+Peach
+Kiwi
+Cherry
+Pomelo
+Avocado
+Coconut
+Guava
+Pear
+Plum
+Grapes
+Dragonfruit
+Goji berry
+Jambul
+Raisin
+Fig
+Bilberry
+
+
+
+Juices:
+Coca-Cola
+Schnapps
+7-up
+Miranda
+Pepsi
+Orange juice
+Apple juice
+Mountain dew
+Red Bull
+Lemonade
+Sprite
+Cranberry juice
+Peach nectar
+Kool-Aid
+Lemon juice
+Grapefruit juice
+Lime juice
+Milk
+Lemon-lime soda
+Espresso
+Coconut milk
+Orgeat syrup
+Tonic water
+Pineapple juice
+Soda water
+
+
+
+
+
+Addons:
+Ice
+Irish cream
+Coffee liqueur
+Guinness stout
+Sugar
+Cocoa powder
+Chocolate
+Chocolate liqueur
+Banana liqueur
+Egg
+Firewater
+Yoghurt
+Glycerine
+Vanilla extract
+Powdered sugar
+Jello
+Honey
+Brown sugar
+Agave syrup
+Celery salt
+Maple syrup
+Cinnamon
+Lemon peel
+Orange peel
+Bitters
+
+
+
+
+
+
