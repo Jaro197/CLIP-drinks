@@ -1,3 +1,3 @@
 # CLIP-drinks
 
-https://colab.research.google.com/drive/1gHH-2YYdroCnDQQcPekAALObqcRA8okj#scrollTo=EiWlKGyHz45P
+https://colab.research.google.com/drive/1TnIHxSnhiV1w0neT0vblCXDHblrDlhJ6?usp=sharing
